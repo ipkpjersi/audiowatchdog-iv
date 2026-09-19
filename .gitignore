@@ -1,0 +1,2 @@
+# Nothing generated here is ignored: the prebuilt script assembly is committed on purpose,
+# so the mod can be installed without mono present. Rebuild it with ./build.sh.
